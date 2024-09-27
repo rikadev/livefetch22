@@ -127,9 +127,9 @@ def index():
 if __name__ == "__main__":
     # Define multiple batch-chat pairs
     batch_chat_pairs = [
-        (100, -1002185439239),  # Example: Batch ID and Chat ID
-        (99, -1002185439239),
-        (119, -1002185439239),
+        (100, -1002355732728),  # Example: Batch ID and Chat ID
+        (99, -1002304583246),
+        (98, -1002164580672),
         # Add more batch-chat pairs as needed
     ]
     # Start checking for new links in a separate thread
